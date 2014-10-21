@@ -1,8 +1,10 @@
 <?php
+erg rthrwht wrh 5h6
 interface plugin_interface
 {
     public function call();
 }
+
 
 class plugin
 {
