@@ -2,7 +2,7 @@
 erg rthrwht wrh 5h6
 interface plugin_interface
 {
-    public function call();
+    public function call();df gewfh wr nrw htrweyn
 }
 
 
